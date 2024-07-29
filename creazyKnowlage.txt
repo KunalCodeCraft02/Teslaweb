@@ -1,0 +1,4 @@
+let ModelText = document.querySelector("#centertext .text span");
+
+1) hum jab getelelmentby id karte hai to hum sirf id wale element hi select krr sakte hai but querySelector
+   above ke jese koi bhi element select krr sakte hai
